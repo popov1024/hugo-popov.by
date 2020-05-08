@@ -1,3 +1,6 @@
 [submodule "themes/pure"]
 	path = themes/pure
 	url = https://github.com/xiaoheiAh/hugo-theme-pure
+[submodule "public"]
+	path = public
+	url = https://github.com/popov1024/popov1024.github.io.git
