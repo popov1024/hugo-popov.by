@@ -14,20 +14,23 @@ permalinks:
 params:
     profilePicture: "images/profile.png"
     copyright: "Andrey Popov"
+    socialIcons:
+      - github:
+        icon: "fa-github"
+        title: "Github"
+        url: "https://github.com/popov1024"
+      - twitter:
+        icon: "fa-twitter"
+        title: "Twitter"
+        url: "https://twitter.com/andrey_popov"
 taxonomies:
     category : categories
     tag : tags
     series : series
-outputFormats:          # use for search. recommend not to modify 
-  SearchIndex:
-    mediaType: "application/json"
-    baseName: "searchindex"
-    isPlainText: true
-    notAlternative: true
 
 outputs:
-    home: ["HTML", "RSS", "SearchIndex"]  # recommend not to modify
-# sitemap
+    home: ["HTML", "RSS"]
+
 sitemap:
   changefreq: monthly
   filename: sitemap.xml
