@@ -4,3 +4,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/popov1024/popov1024.github.io.git
+[submodule "themes/soho"]
+	path = themes/soho
+	url = https://github.com/alexandrevicenzi/soho.git
