@@ -43,3 +43,8 @@ menu:
       title: Posts
       url: /posts/
       weight: 100
+    - identifier: tags
+      name: Tags
+      title: Tags
+      url: /tags/
+      weight: 200
