@@ -1,7 +1,12 @@
 ---
-title: Printserver на базу RaspberryPi
+title: Printserver на базе RaspberryPi
 date: 2019-07-09
 draft: false
+description: "Raspberry Pi - Принтсервер (printserver) на базе CUPS"
+tags: [
+	"raspberrypi",
+	"printer"
+]
 ---
 
 Raspberry Pi отлично подходит для принтсервера. В моем случае используется RaspberryPi Zero W, подключаемый к сети по WiFi.

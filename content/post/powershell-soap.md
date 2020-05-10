@@ -2,6 +2,11 @@
 title: "PowerShell SOAP"
 date: 2013-11-18
 draft: false
+description: "Mikrotik - отправка SMS (СМС)"
+tags: [
+	"powershell",
+	"soap"
+]
 ---
 
 Пример вызова метода Web сервиса посредством `SOAP`:

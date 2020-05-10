@@ -2,6 +2,11 @@
 title: Модем MT-PON-AT-4 (ZTE F660)
 date: 2018-12-04
 draft: false
+description: "Telnet в  модеме (PON) MT-PON-AT-4 (ZTE F660) от Белетелекома (ByFly, Beltelecom)"
+tags: [
+    "zte",
+    "telnet"
+]
 ---
 
 PON модем `MT-PON-AT-4` (`ZTE F660`) имеет возможность доступа по telnet.

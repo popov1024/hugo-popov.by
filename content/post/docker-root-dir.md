@@ -2,6 +2,10 @@
 title: "Docker Root Dir"
 date: 2018-04-30
 draft: false
+description: "Change docker root dir"
+tags: [
+    "docker",
+]
 ---
 
 По умолчанию `Docker` хранит свое окружение (образа, контейнеры и т.д.) в `/var/lib/docker`. Однако часто может возникать проблема нехватки места из-за большого размера контейнеров при хранении в `/var` на корневом томе.

@@ -2,6 +2,13 @@
 title: Gitlab CI and dotnet test
 date: 2020-04-17
 draft: false
+description: "Задача для Gitlab CI тестирования проекта dotnet test"
+tags: [
+  "ci/cd",
+  "gitlab",
+  "dotnet",
+  "unittest"
+]
 ---
 
 Подготовил задачу `.gitlab-ci.yml` для тестирования `dotnet core` приложений:

@@ -2,6 +2,12 @@
 title: "ASP.Net Core custom XML formatter with Windows-1251"
 date: 2018-04-09
 draft: false
+description: "ASP.Net Core - настройка форматтера (XML) для работы с кодировкой Windows-1251 (и любых других легаси кодировок)"
+tags: [
+  "dotnet",
+  "aspnet",
+  "xml"
+]
 ---
 
 Возникла задача обработки `XML` в кодировке `Windows-1251`. Штатный форматтер `XML` в `MVC` `ASP.Net Core` умеет выполнять обработку только `UTF-8`. Но так же MVC поддерживает возможность создания собственных форматтеров.
