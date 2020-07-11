@@ -1,6 +1,6 @@
 ---
 title: "Востановление флешки Corsair Survivor"
-date: 2011-08-29T00:00:00+03:00
+date: 2011-08-29
 draft: false
 ---
 
