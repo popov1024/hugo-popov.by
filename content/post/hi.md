@@ -1,6 +1,6 @@
 ---
 title: Hello world
-date: 1982-07-02
+date: 1982-02-07
 draft: false
 description: "Hello world"
 tags: [
